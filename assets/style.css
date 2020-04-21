@@ -8,10 +8,34 @@ h1 {
 }
 
 .div-body {
-    background-color: white;
-    width: 20%;
-    height: 70px;
+    background-color: #e8fbfc;
+    width: 100%;
+    height: auto;
     padding: 50px;
+    border: 1px solid black;
+}
+
+.div-body-top {
+    background-color: #e8fbfc;
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    border: 1px solid black;    
+}
+
+.div-blank {   
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.column-body {
+    background-color: #d2e8e9;
+    width: 100%;
+    height: auto;
+    padding: 0px;
+    border: 1px solid black;
+    text-align: center;
 }
 
 table {
