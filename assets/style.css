@@ -4,7 +4,7 @@ h1 {
 }
 
 .body-color {
-    background-color: cyan;
+    background-color: #e8fbfc;
 }
 
 .div-body {
@@ -23,7 +23,34 @@ th, td {
     border: 1px solid black;
 }
 
-.div-welcome{
+.div-welcome {
     color: red;
 }
 
+.footer-design {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 35px;
+    background-color:#d9d9d9;
+    color: black;
+    text-align: center;
+}
+
+.header-design {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    background-color:#0d6975;    
+    color: white;
+    font-style: oblique;
+    text-align: center;
+}
+
+.body-design {
+    margin-top: 5%;
+    position: auto;
+}
